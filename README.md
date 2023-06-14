@@ -27,8 +27,8 @@ Nicepage позволяет сделать красивый сайт даже п
 Для перехода по соцсетям добавлена возможность при нажатие на текст открывает новую страницу.
 
 <p align="center">
-<img src="Examples/Ссылка.png" width="230" height="400" alt=""><br>
-<i>Появления информации</i>
+<img src="https://github.com/Se4wolf/NiceConstructor/blob/main/Examples/C%D1%81%D1%8B%D0%BB%D0%BA%D0%B0.png" width="530" height="300" alt=""><br>
+<i>Ссылка на кнопке</i>
 </p> 
 
 
